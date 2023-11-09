@@ -1,0 +1,42 @@
+body
+{
+    font-family: Helvetica;
+}
+#baner_lewy_gora,#baner_lewy_dol
+{
+    background-color:rgb(130, 69, 85) ;
+    color: white;
+    width: 30%;
+    height: 200px;
+    text-align: center; 
+}
+#baner_prawy_gora,#baner_prawy_dol
+{
+    background-color: rgb(130, 69, 85);
+    color: white;
+    width: 70%;
+    height: 200px;
+    text-align: center;
+}
+#baner_lewy_gora
+{
+    float: left;
+}
+#glowny,footer
+{
+    background-color: rgb(240, 234, 226);
+    padding: 120px;
+}
+table,tr,td
+{
+    border-style:solid;
+    border-width: 1px;
+    border-color:rgb(130,69,85);
+    color:rgb(130,69,85);
+    padding: 10px;
+}
+
+#baner_lewy_dol
+{
+    float:left;
+}
